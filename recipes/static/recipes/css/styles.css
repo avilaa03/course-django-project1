@@ -300,3 +300,15 @@ h1, h2, h3, h4, h5, h6 {
 .preparation-steps pre {
     margin: 2rem 0;
 }
+
+.center {
+    text-align: center;
+}
+
+.m-x {
+    margin: 0 var(--spacing-gutter-medium);
+}
+
+.m-y {
+    margin: var(--spacing-gutter-medium) 0;
+}
